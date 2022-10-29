@@ -1,0 +1,1 @@
+.tabs__nav{display:flex;list-style:none}.tabs__panel{display:none}.tabs__panel_current{display:block}.tabs__btn:focus{color:#fff;background-color:navy}.tabs__btn_current{background-color:wheat;pointer-events:none}
